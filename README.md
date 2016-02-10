@@ -1,4 +1,4 @@
-PD microarray Pipeline 
+PD Microarray Pipeline 
 ======================
 
 Authors: Maki Nishida; Lei Song; Difei Wang
