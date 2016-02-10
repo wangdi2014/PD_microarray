@@ -1,8 +1,11 @@
 PD microarray Pipeline 
 ======================
 
-:Authors: Maki Nishida; Lei Song; Difei Wang Ph.D.
-:Emails: difei.wang AT georgetown.edu or wang.difei AT yahoo.com or difei.wang AT nih.gov
+Authors: Maki Nishida; Lei Song; Difei Wang
+
+Emails: difei.wang AT georgetown.edu or 
+        wang.difei AT yahoo.com or 
+        difei.wang AT nih.gov
 
 Description
 ===========
